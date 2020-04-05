@@ -1,0 +1,78 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+body {
+    background: url("推文图/大富翁.jpg") no-repeat center;
+    background-size: 100% 100%;
+    background-attachment:fixed;
+}
+.all {
+    background:white;
+    width:850px;
+    height:400px;
+    border: 8px solid #eeeeee;
+    margin:auto;
+    margin-top: 20px;
+    
+}
+
+.header{
+    text-align:center;
+    padding:5px;
+
+}
+.p1{
+    float: left;
+    width: 300px;
+}
+
+.p2{
+    float: left;
+    font-size: 15px;
+
+}
+.p2 a {
+    color: crimson;
+}
+
+t1{
+    width: 100px;
+    text-align: right;
+    height: 40px;
+}
+t2{
+    padding-left: 40px;
+}
+
+#username,#password{
+    width: 200px;
+    height: 30px;
+    border: 1px solid #a4a4a4;
+    border-radius: 8px;
+    padding-left: 10px;
+}
+#btn{
+    background: lime;
+    width: 100px;
+    height: 40px;
+    border: 1px solid lime;
+}
+
+    
+.box1{
+    
+    width:500px;
+    
+    height: 200px;
+    
+    background-color: white;
+    
+    margin-left: 150px;
+    
+    margin-top:200px;
+    
+    }
