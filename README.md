@@ -1,1 +1,0 @@
-# QG-Web-camp
